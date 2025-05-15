@@ -1,0 +1,13 @@
+export { CartProvider, useCart } from './CartContext';
+export { StockProvider, useStock } from './StockContext';
+export { ClientProvider, useClient } from './ClientContext';
+export { TablesProvider, useTables } from './TablesContext';
+export { PricesProvider, usePrices } from './PricesContext';
+export { GlobalProvider, useGlobals } from './GlobalContext';
+export { FetchProvider, useFetchAxios } from './FetchAxiosContext';
+export { CartTotalsProvider, useCartTotals } from './CartTotalsContext';
+export { UserProvider, useUserContext } from './userContext/UserContext';
+export { DiscountFlexProvider, useDiscountFlex } from './DiscountFlexContext';
+export { TimeMonitorProvider, useTimeMonitorContext } from './TimeMonitorContext';
+export { NetworkStatusProvider, useNetworkStatusContext } from './NetworkStatusContext';
+export { useDiscountAmountFlex, DiscountFlexAmountProvider } from './DiscountFlexAmountContext';

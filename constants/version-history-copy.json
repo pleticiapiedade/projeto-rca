@@ -1,0 +1,19 @@
+{
+  "version": "1.0.74",
+  "date": "06/09/2024",
+  "time": "09:45",
+  "changes": [
+    {
+      "description": "Logout automático de usuários online após expiração dos tokens de autenticação",
+      "category": "Novidade"
+    },
+    {
+      "description": "Correção no cálculo de valores totais do carrinho e na exibição de embalagens de produtos",
+      "category": "Correção"
+    },
+    {
+    "description": "Exibe número ERP informado pelo usuário no modal de ações no pedido",
+      "category": "Melhoria"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+#root:has(.products-container) {
+  height: 100vh;
+  overflow: hidden;
+}
